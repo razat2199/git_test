@@ -1,0 +1,1 @@
+This is just a not-so-serious repository made by me. I'm just learning some of git commands on GitBash.
